@@ -21,8 +21,8 @@ STEP 5: Calculate the accuracy, confusion and classification report by importing
 ## Program:
 ```
 Program to implement the the Logistic Regression Using Gradient Descent.
-Developed by: Rajesh S
-RegisterNumber: 212221220042
+Developed by: Hariharan M
+RegisterNumber: 212221220015
 
 import numpy as np
 import matplotlib.pyplot as plt
